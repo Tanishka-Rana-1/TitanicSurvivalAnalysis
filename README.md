@@ -1,4 +1,6 @@
 🚢 Titanic Survival Analysis & Prediction
+
+
 📜 Overview
 This project explores the famous Titanic dataset to understand passenger survival patterns through rich Exploratory Data Analysis (EDA) and predictive modeling.
 We use machine learning techniques like Decision Trees and K-Nearest Neighbors (KNN) to predict survival outcomes, ultimately identifying which model better fits the data.
